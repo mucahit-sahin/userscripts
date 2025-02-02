@@ -8,7 +8,7 @@ This repository contains a collection of useful Tampermonkey/Violentmonkey users
 
 A userscript that automatically selects your preferred tab when Twitter/X.com homepage loads.
 
-[![Install](https://img.shields.io/badge/Install-Auto_Select_Default_Tab-green.svg)](https://raw.githubusercontent.com/YOUR_USERNAME/tampermonkey/main/Auto_Select_Default_Tab_on_Twitter.js)
+[![Install](https://img.shields.io/badge/Install-Auto_Select_Default_Tab-green.svg)](https://raw.githubusercontent.com/mucahit-sahin/userscripts/main/Auto_Select_Default_Tab_on_Twitter.js)
 
 **Features:**
 
@@ -24,7 +24,7 @@ A userscript that automatically selects your preferred tab when Twitter/X.com ho
 
 Removes unwanted suggestion sections from X.com (formerly Twitter) to provide a cleaner browsing experience.
 
-[![Install](https://img.shields.io/badge/Install-Remove_Suggestions-green.svg)](https://raw.githubusercontent.com/YOUR_USERNAME/tampermonkey/main/RemoveSuggestions.js)
+[![Install](https://img.shields.io/badge/Install-Remove_Suggestions-green.svg)](https://raw.githubusercontent.com/mucahit-sahin/userscripts/main/RemoveSuggestions.js)
 
 **Features:**
 
@@ -39,7 +39,7 @@ Removes unwanted suggestion sections from X.com (formerly Twitter) to provide a 
 
 Adds text-to-speech functionality for German words on Memrise.com.
 
-[![Install](https://img.shields.io/badge/Install-Memrise_TTS-green.svg)](https://raw.githubusercontent.com/YOUR_USERNAME/tampermonkey/main/memrise.js)
+[![Install](https://img.shields.io/badge/Install-Memrise_TTS-green.svg)](https://raw.githubusercontent.com/mucahit-sahin/userscripts/main/memrise.js)
 
 **Features:**
 

@@ -1,0 +1,13 @@
+# Ignore asker.js file
+asker.js
+
+# General files to ignore
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo 

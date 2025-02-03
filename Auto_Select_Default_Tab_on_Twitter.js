@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name        Auto Select Default Tab on Twitter
 // @namespace   Violentmonkey Scripts
-// @match       https://x.com/home*
+// @match       https://x.com/*
+// @match       https://twitter.com/*
 // @grant       GM_registerMenuCommand
 // @version     1.0
 // @author      -

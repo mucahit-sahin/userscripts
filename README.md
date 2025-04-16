@@ -48,6 +48,20 @@ Adds text-to-speech functionality for German words on Memrise.com.
 - Uses native browser text-to-speech capabilities
 - Works on both learning and test cards
 
+### 4. Auto Close YouTube Live Chat
+
+Automatically closes YouTube's live chat when it opens and adds a toggle button to show/hide chat as needed.
+
+[![Install](https://img.shields.io/badge/Install-Auto_Close_YouTube_Chat-green.svg)](https://raw.githubusercontent.com/mucahit-sahin/userscripts/main/CloseYoutubeChat.js)
+
+**Features:**
+
+- Automatically hides YouTube live chat when it appears
+- Adds a "Show Chat" button in the top-right corner to reveal chat when desired
+- Toggle between showing and hiding chat with a single click
+- Works across YouTube video navigation without page reload
+- Language-independent implementation that works regardless of YouTube interface language
+
 ## Installation
 
 1. First, install a userscript manager:
